@@ -1,6 +1,6 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Small example of route protection, simulate user access with permissions and roles
 
 Currently, two official plugins are available:
 
